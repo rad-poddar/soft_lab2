@@ -1,4 +1,0 @@
-this is my first project file
-in this .git folder is also there
-which has other folders also that is used to store changes that has been made to my pc
-hello rads
